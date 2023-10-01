@@ -45,6 +45,10 @@ Superjson solves these issues by providing a thin wrapper over `JSON.stringify` 
 ## Sponsors
 [<img src="https://raw.githubusercontent.com/blitz-js/blitz/main/assets/flightcontrol.png" alt="Flightcontrol Logo" style="width: 400px;"/>](https://www.flightcontrol.dev/?ref=superjson)
 
+Superjson logo by [NUMI](https://github.com/numi-hq/open-design):
+
+[<img src="https://raw.githubusercontent.com/numi-hq/open-design/main/assets/numi-lockup.png" alt="NUMI Logo" style="width: 200px;"/>](https://numi.tech/?ref=superjson)
+
 
 ## Getting started
 
@@ -328,8 +332,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
-Logo designed by [NUMI](https://numi.tech)
 
 ## See also
 
